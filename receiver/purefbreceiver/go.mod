@@ -3,8 +3,8 @@ module github.com/asserts/opentelemetry-collector-contrib/receiver/purefbreceive
 go 1.19
 
 require (
-	github.com/asserts/opentelemetry-collector-contrib/extension/bearertokenauthextension v0.71.0
-	github.com/asserts/opentelemetry-collector-contrib/receiver/prometheusreceiver v0.71.0
+	github.com/asserts/opentelemetry-collector-contrib/extension/bearertokenauthextension v1.0.0.71.0-dev-0
+	github.com/asserts/opentelemetry-collector-contrib/receiver/prometheusreceiver v1.0.0.71.0-dev-0
 	github.com/prometheus/common v0.39.0
 	github.com/prometheus/prometheus v0.42.1-0.20230210113933-af1d9e01c7e4
 	github.com/stretchr/testify v1.8.1
@@ -108,8 +108,8 @@ require (
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/mwitkow/go-conntrack v0.0.0-20190716064945-2f068394615f // indirect
-	github.com/asserts/opentelemetry-collector-contrib/pkg/pdatautil v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/pkg/translator/prometheus v0.71.0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/pkg/pdatautil v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/pkg/translator/prometheus v1.0.0.71.0-dev-0 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/opencontainers/image-spec v1.0.2 // indirect
 	github.com/ovh/go-ovh v1.3.0 // indirect

@@ -3,7 +3,7 @@ module github.com/asserts/opentelemetry-collector-contrib/extension/observer/hos
 go 1.19
 
 require (
-	github.com/asserts/opentelemetry-collector-contrib/extension/observer v0.71.0
+	github.com/asserts/opentelemetry-collector-contrib/extension/observer v1.0.0.71.0-dev-0
 	github.com/shirou/gopsutil/v3 v3.23.1
 	github.com/stretchr/testify v1.8.1
 	go.opentelemetry.io/collector v0.71.0

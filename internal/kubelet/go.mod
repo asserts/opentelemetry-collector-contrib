@@ -3,8 +3,8 @@ module github.com/asserts/opentelemetry-collector-contrib/internal/kubelet
 go 1.19
 
 require (
-	github.com/asserts/opentelemetry-collector-contrib/internal/common v0.71.0
-	github.com/asserts/opentelemetry-collector-contrib/internal/k8sconfig v0.71.0
+	github.com/asserts/opentelemetry-collector-contrib/internal/common v1.0.0.71.0-dev-0
+	github.com/asserts/opentelemetry-collector-contrib/internal/k8sconfig v1.0.0.71.0-dev-0
 	github.com/stretchr/testify v1.8.1
 	go.opentelemetry.io/collector v0.71.0
 	go.uber.org/zap v1.24.0

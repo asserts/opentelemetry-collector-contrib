@@ -25,7 +25,7 @@ require (
 	github.com/asserts/opentelemetry-collector-contrib/exporter/instanaexporter v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/exporter/jaegerexporter v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/exporter/jaegerthrifthttpexporter v0.0.0-00010101000000-000000000000
-	github.com/asserts/opentelemetry-collector-contrib/exporter/kafkaexporter v0.71.0
+	github.com/asserts/opentelemetry-collector-contrib/exporter/kafkaexporter v1.0.0.71.0-dev-0
 	github.com/asserts/opentelemetry-collector-contrib/exporter/loadbalancingexporter v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/exporter/logicmonitorexporter v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/exporter/logzioexporter v0.0.0-00010101000000-000000000000
@@ -34,35 +34,35 @@ require (
 	github.com/asserts/opentelemetry-collector-contrib/exporter/opencensusexporter v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/exporter/parquetexporter v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/exporter/prometheusexporter v0.0.0-00010101000000-000000000000
-	github.com/asserts/opentelemetry-collector-contrib/exporter/prometheusremotewriteexporter v0.71.0
+	github.com/asserts/opentelemetry-collector-contrib/exporter/prometheusremotewriteexporter v1.0.0.71.0-dev-0
 	github.com/asserts/opentelemetry-collector-contrib/exporter/pulsarexporter v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/exporter/sapmexporter v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/exporter/sentryexporter v0.0.0-00010101000000-000000000000
-	github.com/asserts/opentelemetry-collector-contrib/exporter/signalfxexporter v0.71.0
+	github.com/asserts/opentelemetry-collector-contrib/exporter/signalfxexporter v1.0.0.71.0-dev-0
 	github.com/asserts/opentelemetry-collector-contrib/exporter/skywalkingexporter v0.0.0-00010101000000-000000000000
-	github.com/asserts/opentelemetry-collector-contrib/exporter/splunkhecexporter v0.71.0
+	github.com/asserts/opentelemetry-collector-contrib/exporter/splunkhecexporter v1.0.0.71.0-dev-0
 	github.com/asserts/opentelemetry-collector-contrib/exporter/sumologicexporter v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/exporter/tanzuobservabilityexporter v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/exporter/tencentcloudlogserviceexporter v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/exporter/zipkinexporter v0.0.0-00010101000000-000000000000
-	github.com/asserts/opentelemetry-collector-contrib/extension/asapauthextension v0.71.0
-	github.com/asserts/opentelemetry-collector-contrib/extension/awsproxy v0.71.0
-	github.com/asserts/opentelemetry-collector-contrib/extension/basicauthextension v0.71.0
-	github.com/asserts/opentelemetry-collector-contrib/extension/bearertokenauthextension v0.71.0
-	github.com/asserts/opentelemetry-collector-contrib/extension/headerssetterextension v0.71.0
+	github.com/asserts/opentelemetry-collector-contrib/extension/asapauthextension v1.0.0.71.0-dev-0
+	github.com/asserts/opentelemetry-collector-contrib/extension/awsproxy v1.0.0.71.0-dev-0
+	github.com/asserts/opentelemetry-collector-contrib/extension/basicauthextension v1.0.0.71.0-dev-0
+	github.com/asserts/opentelemetry-collector-contrib/extension/bearertokenauthextension v1.0.0.71.0-dev-0
+	github.com/asserts/opentelemetry-collector-contrib/extension/headerssetterextension v1.0.0.71.0-dev-0
 	github.com/asserts/opentelemetry-collector-contrib/extension/healthcheckextension v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/extension/httpforwarder v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/extension/oauth2clientauthextension v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/extension/observer/ecstaskobserver v0.0.0-00010101000000-000000000000
-	github.com/asserts/opentelemetry-collector-contrib/extension/observer/hostobserver v0.71.0
+	github.com/asserts/opentelemetry-collector-contrib/extension/observer/hostobserver v1.0.0.71.0-dev-0
 	github.com/asserts/opentelemetry-collector-contrib/extension/observer/k8sobserver v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/extension/oidcauthextension v0.0.0-00010101000000-000000000000
-	github.com/asserts/opentelemetry-collector-contrib/extension/pprofextension v0.71.0
-	github.com/asserts/opentelemetry-collector-contrib/extension/sigv4authextension v0.71.0
-	github.com/asserts/opentelemetry-collector-contrib/extension/storage v0.71.0
-	github.com/asserts/opentelemetry-collector-contrib/internal/common v0.71.0
-	github.com/asserts/opentelemetry-collector-contrib/internal/coreinternal v0.71.0
-	github.com/asserts/opentelemetry-collector-contrib/pkg/stanza v0.71.0
+	github.com/asserts/opentelemetry-collector-contrib/extension/pprofextension v1.0.0.71.0-dev-0
+	github.com/asserts/opentelemetry-collector-contrib/extension/sigv4authextension v1.0.0.71.0-dev-0
+	github.com/asserts/opentelemetry-collector-contrib/extension/storage v1.0.0.71.0-dev-0
+	github.com/asserts/opentelemetry-collector-contrib/internal/common v1.0.0.71.0-dev-0
+	github.com/asserts/opentelemetry-collector-contrib/internal/coreinternal v1.0.0.71.0-dev-0
+	github.com/asserts/opentelemetry-collector-contrib/pkg/stanza v1.0.0.71.0-dev-0
 	github.com/asserts/opentelemetry-collector-contrib/processor/attributesprocessor v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/processor/cumulativetodeltaprocessor v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/processor/datadogprocessor v0.0.0-00010101000000-000000000000
@@ -93,10 +93,10 @@ require (
 	github.com/asserts/opentelemetry-collector-contrib/receiver/azureblobreceiver v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/receiver/azureeventhubreceiver v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/receiver/bigipreceiver v0.0.0-00010101000000-000000000000
-	github.com/asserts/opentelemetry-collector-contrib/receiver/carbonreceiver v0.71.0
+	github.com/asserts/opentelemetry-collector-contrib/receiver/carbonreceiver v1.0.0.71.0-dev-0
 	github.com/asserts/opentelemetry-collector-contrib/receiver/chronyreceiver v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/receiver/cloudfoundryreceiver v0.0.0-00010101000000-000000000000
-	github.com/asserts/opentelemetry-collector-contrib/receiver/collectdreceiver v0.71.0
+	github.com/asserts/opentelemetry-collector-contrib/receiver/collectdreceiver v1.0.0.71.0-dev-0
 	github.com/asserts/opentelemetry-collector-contrib/receiver/couchdbreceiver v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/receiver/datadogreceiver v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/receiver/dockerstatsreceiver v0.0.0-00010101000000-000000000000
@@ -134,7 +134,7 @@ require (
 	github.com/asserts/opentelemetry-collector-contrib/receiver/podmanreceiver v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/receiver/postgresqlreceiver v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/receiver/prometheusexecreceiver v0.0.0-00010101000000-000000000000
-	github.com/asserts/opentelemetry-collector-contrib/receiver/prometheusreceiver v0.71.0
+	github.com/asserts/opentelemetry-collector-contrib/receiver/prometheusreceiver v1.0.0.71.0-dev-0
 	github.com/asserts/opentelemetry-collector-contrib/receiver/pulsarreceiver v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/receiver/purefareceiver v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/receiver/purefbreceiver v0.0.0-00010101000000-000000000000
@@ -469,36 +469,36 @@ require (
 	github.com/nginxinc/nginx-prometheus-exporter v0.8.1-0.20201110005315-f5a5f8086c19 // indirect
 	github.com/observiq/ctimefmt v1.0.0 // indirect
 	github.com/onsi/gomega v1.24.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/extension/observer v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/internal/aws/awsutil v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/internal/aws/containerinsight v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/internal/aws/cwlogs v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/internal/aws/ecsutil v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/internal/aws/k8s v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/internal/aws/metrics v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/internal/aws/proxy v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/internal/aws/xray v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/internal/docker v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/internal/filter v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/internal/k8sconfig v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/internal/kubelet v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/internal/metadataproviders v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/internal/sharedcomponent v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/internal/splunk v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/pkg/batchperresourceattr v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/pkg/batchpersignal v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/pkg/experimentalmetricmetadata v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/pkg/ottl v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/pkg/pdatautil v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/pkg/resourcetotelemetry v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/pkg/translator/jaeger v0.71.0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/extension/observer v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/internal/aws/awsutil v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/internal/aws/containerinsight v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/internal/aws/cwlogs v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/internal/aws/ecsutil v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/internal/aws/k8s v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/internal/aws/metrics v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/internal/aws/proxy v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/internal/aws/xray v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/internal/docker v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/internal/filter v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/internal/k8sconfig v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/internal/kubelet v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/internal/metadataproviders v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/internal/sharedcomponent v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/internal/splunk v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/pkg/batchperresourceattr v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/pkg/batchpersignal v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/pkg/experimentalmetricmetadata v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/pkg/ottl v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/pkg/pdatautil v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/pkg/resourcetotelemetry v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/pkg/translator/jaeger v1.0.0.71.0-dev-0 // indirect
 	github.com/asserts/opentelemetry-collector-contrib/pkg/translator/loki v0.0.0-00010101000000-000000000000 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/pkg/translator/opencensus v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/pkg/translator/prometheus v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/pkg/translator/prometheusremotewrite v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/pkg/translator/signalfx v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/pkg/translator/zipkin v0.71.0 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/pkg/winperfcounters v0.71.0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/pkg/translator/opencensus v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/pkg/translator/prometheus v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/pkg/translator/prometheusremotewrite v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/pkg/translator/signalfx v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/pkg/translator/zipkin v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/pkg/winperfcounters v1.0.0.71.0-dev-0 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/opencontainers/image-spec v1.1.0-rc2 // indirect
 	github.com/opencontainers/runc v1.1.4 // indirect

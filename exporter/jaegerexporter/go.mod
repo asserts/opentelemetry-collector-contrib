@@ -6,7 +6,7 @@ go 1.19
 require (
 	github.com/cenkalti/backoff/v4 v4.2.0
 	github.com/jaegertracing/jaeger v1.41.0
-	github.com/asserts/opentelemetry-collector-contrib/internal/coreinternal v0.71.0
+	github.com/asserts/opentelemetry-collector-contrib/internal/coreinternal v1.0.0.71.0-dev-0
 	github.com/asserts/opentelemetry-collector-contrib/pkg/translator/jaeger v0.68.0
 	github.com/stretchr/testify v1.8.1
 	go.opencensus.io v0.24.0

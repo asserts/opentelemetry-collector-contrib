@@ -3,7 +3,7 @@ module github.com/asserts/opentelemetry-collector-contrib/processor/groupbytrace
 go 1.19
 
 require (
-	github.com/asserts/opentelemetry-collector-contrib/pkg/batchpersignal v0.71.0
+	github.com/asserts/opentelemetry-collector-contrib/pkg/batchpersignal v1.0.0.71.0-dev-0
 	github.com/stretchr/testify v1.8.1
 	go.opencensus.io v0.24.0
 	go.opentelemetry.io/collector v0.71.0

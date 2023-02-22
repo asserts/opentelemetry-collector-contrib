@@ -3,7 +3,7 @@ module github.com/asserts/opentelemetry-collector-contrib/pkg/translator/prometh
 go 1.19
 
 require (
-	github.com/asserts/opentelemetry-collector-contrib/internal/common v0.71.0
+	github.com/asserts/opentelemetry-collector-contrib/internal/common v1.0.0.71.0-dev-0
 	github.com/stretchr/testify v1.8.1
 	go.opentelemetry.io/collector/featuregate v0.71.0
 	go.opentelemetry.io/collector/pdata v1.0.0-rc5
