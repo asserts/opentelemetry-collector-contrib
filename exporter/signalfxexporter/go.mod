@@ -6,12 +6,12 @@ require (
 	github.com/cenkalti/backoff/v4 v4.2.0
 	github.com/gobwas/glob v0.2.3
 	github.com/gogo/protobuf v1.3.2
-	github.com/asserts/opentelemetry-collector-contrib/internal/common v1.0.0.71.0-dev-0
-	github.com/asserts/opentelemetry-collector-contrib/internal/coreinternal v1.0.0.71.0-dev-0
-	github.com/asserts/opentelemetry-collector-contrib/internal/splunk v1.0.0.71.0-dev-0
-	github.com/asserts/opentelemetry-collector-contrib/pkg/batchperresourceattr v1.0.0.71.0-dev-0
-	github.com/asserts/opentelemetry-collector-contrib/pkg/experimentalmetricmetadata v1.0.0.71.0-dev-0
-	github.com/asserts/opentelemetry-collector-contrib/pkg/translator/signalfx v1.0.0.71.0-dev-0
+	github.com/asserts/opentelemetry-collector-contrib/internal/common v1.71.0
+	github.com/asserts/opentelemetry-collector-contrib/internal/coreinternal v1.71.0
+	github.com/asserts/opentelemetry-collector-contrib/internal/splunk v1.71.0
+	github.com/asserts/opentelemetry-collector-contrib/pkg/batchperresourceattr v1.71.0
+	github.com/asserts/opentelemetry-collector-contrib/pkg/experimentalmetricmetadata v1.71.0
+	github.com/asserts/opentelemetry-collector-contrib/pkg/translator/signalfx v1.71.0
 	github.com/shirou/gopsutil/v3 v3.23.1
 	github.com/signalfx/com_signalfx_metrics_protobuf v0.0.3
 	github.com/signalfx/signalfx-agent/pkg/apm v0.0.0-20230214151822-6a6813cf5bf1

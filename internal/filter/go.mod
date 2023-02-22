@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/antonmedv/expr v1.12.0
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
-	github.com/asserts/opentelemetry-collector-contrib/internal/coreinternal v1.0.0.71.0-dev-0
+	github.com/asserts/opentelemetry-collector-contrib/internal/coreinternal v1.71.0
 	github.com/asserts/opentelemetry-collector-contrib/pkg/ottl v0.0.0-00010101000000-000000000000
 	github.com/asserts/opentelemetry-collector-contrib/pkg/pdatautil v0.0.0-00010101000000-000000000000
 	github.com/stretchr/testify v1.8.1

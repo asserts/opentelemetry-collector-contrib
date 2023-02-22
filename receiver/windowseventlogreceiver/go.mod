@@ -3,7 +3,7 @@ module github.com/asserts/opentelemetry-collector-contrib/receiver/windowseventl
 go 1.19
 
 require (
-	github.com/asserts/opentelemetry-collector-contrib/pkg/stanza v1.0.0.71.0-dev-0
+	github.com/asserts/opentelemetry-collector-contrib/pkg/stanza v1.71.0
 	github.com/stretchr/testify v1.8.1
 	go.opentelemetry.io/collector v0.71.0
 	go.opentelemetry.io/collector/component v0.71.0

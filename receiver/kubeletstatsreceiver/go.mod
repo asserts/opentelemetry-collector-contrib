@@ -3,8 +3,8 @@ module github.com/asserts/opentelemetry-collector-contrib/receiver/kubeletstatsr
 go 1.19
 
 require (
-	github.com/asserts/opentelemetry-collector-contrib/internal/k8sconfig v1.0.0.71.0-dev-0
-	github.com/asserts/opentelemetry-collector-contrib/internal/kubelet v1.0.0.71.0-dev-0
+	github.com/asserts/opentelemetry-collector-contrib/internal/k8sconfig v1.71.0
+	github.com/asserts/opentelemetry-collector-contrib/internal/kubelet v1.71.0
 	github.com/stretchr/testify v1.8.1
 	go.opentelemetry.io/collector v0.71.0
 	go.opentelemetry.io/collector/component v0.71.0
@@ -43,7 +43,7 @@ require (
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
-	github.com/asserts/opentelemetry-collector-contrib/internal/common v1.0.0.71.0-dev-0 // indirect
+	github.com/asserts/opentelemetry-collector-contrib/internal/common v1.71.0 // indirect
 	github.com/openshift/api v0.0.0-20210521075222-e273a339932a // indirect
 	github.com/openshift/client-go v0.0.0-20210521082421-73d9475a9142 // indirect
 	github.com/pelletier/go-toml v1.9.4 // indirect
